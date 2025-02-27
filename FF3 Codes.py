@@ -1,4 +1,4 @@
-###FF3 Factor Model####
+###Fama-French Three Factor Model####
 
 import pandas as pd
 import numpy as np
