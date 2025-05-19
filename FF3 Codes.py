@@ -181,3 +181,6 @@ print(expected_returns.head())
 
 #Save this DataFrame to an Excel file
 expected_returns.to_excel('d:\\FF3.xlsx', index=False)
+
+
+import numpy as np
